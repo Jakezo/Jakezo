@@ -31,14 +31,5 @@
 </br>
 
 
-</br>
-</br>
-
-
-### 💜Github Status
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeZo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeZo)](https://github.com/jakeZo/github-readme-stats)
-
 
 </div>
