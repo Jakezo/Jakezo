@@ -4,7 +4,7 @@
 
 ### ✨Context
 <a href="https://velog.io/@rmswjdtn"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/dev__rmswjdtn@naver.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
+<img src="https://img.shields.io/badge/wowodlr21@gmail.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
 
 </br>
 </br>
@@ -45,7 +45,7 @@
 ### 💜Github Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suy2on&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suy2on&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakezo&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
