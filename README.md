@@ -37,7 +37,7 @@
 
 ### 💜Github Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakezo&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeZo&layout=compact&theme=tokyonight)
 
 
 
