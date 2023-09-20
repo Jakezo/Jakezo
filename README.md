@@ -28,6 +28,7 @@
 <span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-F37C20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge"/>
 </span>
 </br>
 <span>
@@ -38,7 +39,7 @@
 </br>
 <span>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazonaws&logoColor=white"/>
 
 
 </br>
