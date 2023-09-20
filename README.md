@@ -38,7 +38,7 @@
 </br>
 <span>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github Actions-2496ED?style=for-the-badge&logo=Github Actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=php&logoColor=white"/>
 
 
 </br>
