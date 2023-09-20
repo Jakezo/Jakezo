@@ -25,7 +25,7 @@
 
 
 ### 🛠Skills
-<span><img src="https://img.shields.io/badge/PHP-777BB4&style=for-the-badge"/>
+<span><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-F37C20?style=for-the-badge"/>
 </span>
